@@ -1,0 +1,542 @@
+@media only screen and (max-width:1080px){
+    
+    .cont-gen-bienvenida .cont-bienvenida  .info-intereses{
+        width: 35%;
+        background-color: white;
+        margin-left: 20px;
+        margin-bottom: 20px;
+        -webkit-box-shadow: 10px 10px 9px 0px rgba(0,0,0,0.75);
+  -moz-box-shadow: 10px 10px 9px 0px rgba(0,0,0,0.75);
+  box-shadow: 10px 10px 9px 0px rgba(0,0,0,0.75);
+  
+    } 
+
+    .cont-gen-bienvenida .cont-bienvenida  .info-objetivo{
+        width: 35%;
+        background-color: white;
+        margin-left: 20px;
+        margin-bottom: 20px;
+        -webkit-box-shadow: 10px 10px 9px 0px rgba(0,0,0,0.75);
+        -moz-box-shadow: 10px 10px 9px 0px rgba(0,0,0,0.75);
+        box-shadow: 10px 10px 9px 0px rgba(0,0,0,0.75);
+    
+      }
+
+      .cont-gen-bienvenida .cont-bienvenida .datos-personales{
+        width: 40%;
+        background-color: white;
+        margin-left: 20px;
+        margin-bottom: 20px;
+        -webkit-box-shadow: 10px 10px 9px 0px rgba(0,0,0,0.75);
+        -moz-box-shadow: 10px 10px 9px 0px rgba(0,0,0,0.75);
+        box-shadow: 10px 10px 9px 0px rgba(0,0,0,0.75);
+      }
+
+
+}
+
+@media only screen and (max-width:800px){
+
+    .svg-info{
+        width: 50%;
+        height: 400px;
+        display: block;
+       margin: 0 auto;
+      }
+  
+      .title-info-per{
+        font-size: 30px;
+        margin-top: 50px;
+        text-align: center;
+        margin-bottom: 30px;
+      }
+      .cont-gen-bienvenida{
+          width: 100%;
+          height: auto;
+          display: flex;
+      }
+      .cont-gen-bienvenida .cont-bienvenida{
+        width: 100%;
+        height: auto;
+        display: flex;
+        flex-wrap: wrap;
+       padding: 20px;
+       justify-content: center;
+      }
+      
+         .cont-gen-bienvenida .cont-bienvenida  .info-intereses{
+            width: 40%;
+            background-color: white;
+            margin-left: 20px;
+            margin-bottom: 20px;
+            -webkit-box-shadow: 10px 10px 9px 0px rgba(0,0,0,0.75);
+      -moz-box-shadow: 10px 10px 9px 0px rgba(0,0,0,0.75);
+      box-shadow: 10px 10px 9px 0px rgba(0,0,0,0.75);
+      
+        } 
+
+        .cont-gen-bienvenida .cont-bienvenida  .info-objetivo{
+            width: 40%;
+            background-color: white;
+            margin-left: 20px;
+            margin-bottom: 20px;
+            -webkit-box-shadow: 10px 10px 9px 0px rgba(0,0,0,0.75);
+            -moz-box-shadow: 10px 10px 9px 0px rgba(0,0,0,0.75);
+            box-shadow: 10px 10px 9px 0px rgba(0,0,0,0.75);
+        
+          }
+
+          .cont-gen-bienvenida .cont-bienvenida .datos-personales{
+            width: 50%;
+            background-color: white;
+            margin-left: 20px;
+            margin-bottom: 20px;
+            -webkit-box-shadow: 10px 10px 9px 0px rgba(0,0,0,0.75);
+            -moz-box-shadow: 10px 10px 9px 0px rgba(0,0,0,0.75);
+            box-shadow: 10px 10px 9px 0px rgba(0,0,0,0.75);
+          }
+
+}
+
+
+@media only screen and (max-width:750px){
+    .svg-info{
+        width: 55%;
+        height: 400px;
+        display: block;
+       margin: 0 auto;
+      }
+  
+      .title-info-per{
+        font-size: 30px;
+        margin-top: 50px;
+        text-align: center;
+        margin-bottom: 30px;
+      }
+      .cont-gen-bienvenida{
+          width: 100%;
+          height: auto;
+          display: flex;
+      }
+      .cont-gen-bienvenida .cont-bienvenida{
+        width: 100%;
+        height: auto;
+        display: flex;
+        flex-wrap: wrap;
+       padding: 20px;
+       justify-content: center;
+      }
+      
+         .cont-gen-bienvenida .cont-bienvenida  .info-intereses{
+            width: 60%;
+            background-color: white;
+            margin-left: 20px;
+            margin-bottom: 20px;
+            -webkit-box-shadow: 10px 10px 9px 0px rgba(0,0,0,0.75);
+      -moz-box-shadow: 10px 10px 9px 0px rgba(0,0,0,0.75);
+      box-shadow: 10px 10px 9px 0px rgba(0,0,0,0.75);
+      
+        }  .cont-gen-bienvenida .cont-bienvenida  .info-intereses img{
+            width: 100%;
+            height: 250px;
+            margin-bottom: 10px;
+        }   .cont-gen-bienvenida .cont-bienvenida  .info-intereses h2{
+          color:#333;
+          margin-left: 10%;
+          margin-bottom: 20px;
+          font-size: 30px;
+        }   .cont-gen-bienvenida .cont-bienvenida  .info-intereses p{
+          font-size: 20px;
+          text-align: justify;
+          margin: 0 auto;
+          margin-bottom: 20px;
+          width: 80%;
+        }  .cont-gen-bienvenida .cont-bienvenida  .info-intereses .icono-interes{
+          font-size: 30px;
+          text-align: justify;
+          margin-left: 10px;
+          color: #333;
+        } 
+
+        .cont-gen-bienvenida .cont-bienvenida  .info-objetivo{
+            width: 60%;
+            background-color: white;
+            margin-left: 20px;
+            margin-bottom: 20px;
+            -webkit-box-shadow: 10px 10px 9px 0px rgba(0,0,0,0.75);
+            -moz-box-shadow: 10px 10px 9px 0px rgba(0,0,0,0.75);
+            box-shadow: 10px 10px 9px 0px rgba(0,0,0,0.75);
+        
+          } .cont-gen-bienvenida .cont-bienvenida  .info-objetivo img{
+            width: 100%;
+            height: 250px;
+            margin-bottom: 10px;
+        }  .cont-gen-bienvenida .cont-bienvenida  .info-objetivo h2{
+          color:#333;
+          margin-left: 10%;
+          font-size: 30px;
+          margin-bottom: 20px;
+        }   .cont-gen-bienvenida .cont-bienvenida  .info-objetivo p{
+          font-size: 12px;
+          text-align: justify;
+          font-size: 20px;
+          margin: 0 auto;
+          margin-bottom: 20px;
+          width: 80%;
+        } .cont-gen-bienvenida .cont-bienvenida  .info-objetivo .icono-objetivo{
+          font-size: 30px;
+          text-align: justify;
+          margin-left: 10px;
+          color: #333;
+        } 
+
+          .cont-gen-bienvenida .cont-bienvenida .datos-personales{
+            width: 60%;
+            background-color: white;
+            margin-left: 20px;
+            margin-bottom: 20px;
+            -webkit-box-shadow: 10px 10px 9px 0px rgba(0,0,0,0.75);
+            -moz-box-shadow: 10px 10px 9px 0px rgba(0,0,0,0.75);
+            box-shadow: 10px 10px 9px 0px rgba(0,0,0,0.75);
+          } .cont-gen-bienvenida .cont-bienvenida  .datos-personales img{
+            width: 100%;
+            height: 280px;
+          } 
+           .cont-gen-bienvenida .cont-bienvenida .datos-personales .title-datos{
+            color: #333;
+            font-size: 30px;
+              margin-bottom: 10px;
+              margin-top: 10px;
+              text-align: center;
+          } .cont-gen-bienvenida .cont-bienvenida  .datos-personales p{
+            font-size: 20px;
+            text-align: justify;
+            margin: 0 auto;
+            width: 80%;
+            margin-bottom: 20px;
+          } .cont-gen-bienvenida .cont-bienvenida  .datos-personales .icono-datos{
+            font-size: 30px;
+            text-align: justify;
+            margin-left: 10px;
+            color: #333;
+          } 
+   
+    }
+
+    
+@media only screen and (max-width:730px){
+
+    .cont-gen-bienvenida .cont-bienvenida  .info-intereses{
+        width: 80%;
+        background-color: white;
+        margin-left: 20px;
+        margin-bottom: 20px;
+        -webkit-box-shadow: 10px 10px 9px 0px rgba(0,0,0,0.75);
+  -moz-box-shadow: 10px 10px 9px 0px rgba(0,0,0,0.75);
+  box-shadow: 10px 10px 9px 0px rgba(0,0,0,0.75);
+  
+    } 
+
+    .cont-gen-bienvenida .cont-bienvenida  .info-objetivo{
+        width: 80%;
+        background-color: white;
+        margin-left: 20px;
+        margin-bottom: 20px;
+        -webkit-box-shadow: 10px 10px 9px 0px rgba(0,0,0,0.75);
+        -moz-box-shadow: 10px 10px 9px 0px rgba(0,0,0,0.75);
+        box-shadow: 10px 10px 9px 0px rgba(0,0,0,0.75);
+    
+      }
+
+      .cont-gen-bienvenida .cont-bienvenida .datos-personales{
+        width: 80%;
+        background-color: white;
+        margin-left: 20px;
+        margin-bottom: 20px;
+        -webkit-box-shadow: 10px 10px 9px 0px rgba(0,0,0,0.75);
+        -moz-box-shadow: 10px 10px 9px 0px rgba(0,0,0,0.75);
+        box-shadow: 10px 10px 9px 0px rgba(0,0,0,0.75);
+      }
+   
+    }
+
+       
+@media only screen and (max-width:551px){
+
+    .cont-gen-bienvenida .cont-bienvenida  .info-intereses{
+        width: 90%;
+        background-color: white;
+        margin-left: 20px;
+        margin-bottom: 20px;
+        -webkit-box-shadow: 10px 10px 9px 0px rgba(0,0,0,0.75);
+  -moz-box-shadow: 10px 10px 9px 0px rgba(0,0,0,0.75);
+  box-shadow: 10px 10px 9px 0px rgba(0,0,0,0.75);
+  
+    }  .cont-gen-bienvenida .cont-bienvenida   .info-intereses p{
+        font-size: 16px;
+        text-align: justify;
+        margin: 0 auto;
+        width: 80%;
+        margin-bottom: 20px;
+      }
+
+    .cont-gen-bienvenida .cont-bienvenida  .info-objetivo{
+        width: 90%;
+        background-color: white;
+        margin-left: 20px;
+        margin-bottom: 20px;
+        -webkit-box-shadow: 10px 10px 9px 0px rgba(0,0,0,0.75);
+        -moz-box-shadow: 10px 10px 9px 0px rgba(0,0,0,0.75);
+        box-shadow: 10px 10px 9px 0px rgba(0,0,0,0.75);
+    
+      } .cont-gen-bienvenida .cont-bienvenida  .info-objetivo p{
+        font-size: 16px;
+        text-align: justify;
+        margin: 0 auto;
+        width: 80%;
+        margin-bottom: 20px;
+      }
+
+      .cont-gen-bienvenida .cont-bienvenida .datos-personales{
+        width: 90%;
+        background-color: white;
+        margin-left: 20px;
+        margin-bottom: 20px;
+        -webkit-box-shadow: 10px 10px 9px 0px rgba(0,0,0,0.75);
+        -moz-box-shadow: 10px 10px 9px 0px rgba(0,0,0,0.75);
+        box-shadow: 10px 10px 9px 0px rgba(0,0,0,0.75);
+      } .cont-gen-bienvenida .cont-bienvenida  .datos-personales p{
+        font-size: 16px;
+        text-align: justify;
+        margin: 0 auto;
+        width: 80%;
+        margin-bottom: 20px;
+      }
+    
+    }
+
+    @media only screen and (max-width:500px){
+
+        .svg-info{
+            width: 80%;
+            height: 400px;
+            display: block;
+           margin: 0 auto;
+          }
+        
+        }
+
+        @media only screen and (max-width:400px){
+
+            .svg-info{
+                width: 95%;
+                height: 500px;
+                display: block;
+               margin: 0 auto;
+              }
+                       
+              .cont-gen-bienvenida .cont-bienvenida  .info-intereses{
+                width: 95%;
+                background-color: white;
+                margin-left: 20px;
+                margin-bottom: 20px;
+                -webkit-box-shadow: 10px 10px 9px 0px rgba(0,0,0,0.75);
+          -moz-box-shadow: 10px 10px 9px 0px rgba(0,0,0,0.75);
+          box-shadow: 10px 10px 9px 0px rgba(0,0,0,0.75);
+          
+            }  .cont-gen-bienvenida .cont-bienvenida   .info-intereses p{
+                font-size: 12px;
+                text-align: justify;
+                margin: 0 auto;
+                width: 90%;
+                margin-bottom: 20px;
+              }.cont-gen-bienvenida .cont-bienvenida  .info-intereses img{
+                width: 100%;
+                height: 180px;
+                margin-bottom: 10px;
+            }   .cont-gen-bienvenida .cont-bienvenida  .info-intereses h2{
+              color:#333;
+              margin-left: 10%;
+              margin-bottom: 20px;
+              font-size: 20px;
+            }   .cont-gen-bienvenida .cont-bienvenida  .info-intereses .icono-interes{
+              font-size: 20px;
+              text-align: justify;
+              margin-left: 10px;
+              color: #333;
+            } 
+
+
+        
+            .cont-gen-bienvenida .cont-bienvenida  .info-objetivo{
+                width: 95%;
+                background-color: white;
+                margin-left: 20px;
+                margin-bottom: 20px;
+                -webkit-box-shadow: 10px 10px 9px 0px rgba(0,0,0,0.75);
+                -moz-box-shadow: 10px 10px 9px 0px rgba(0,0,0,0.75);
+                box-shadow: 10px 10px 9px 0px rgba(0,0,0,0.75);
+            
+              } .cont-gen-bienvenida .cont-bienvenida  .info-objetivo p{
+                font-size: 14px;
+                text-align: justify;
+                margin: 0 auto;
+                width: 90%;
+                margin-bottom: 20px;
+              } .cont-gen-bienvenida .cont-bienvenida  .info-objetivo img{
+                width: 100%;
+                height: 180px;
+                margin-bottom: 10px;
+            }  .cont-gen-bienvenida .cont-bienvenida  .info-objetivo h2{
+              color:#333;
+              margin-left: 10%;
+              font-size: 20px;
+              margin-bottom: 20px;
+            }   .cont-gen-bienvenida .cont-bienvenida  .info-objetivo p{
+              font-size: 12px;
+              text-align: justify;
+              margin: 0 auto;
+              margin-bottom: 20px;
+              width: 80%;
+            } .cont-gen-bienvenida .cont-bienvenida  .info-objetivo .icono-objetivo{
+              font-size: 20px;
+              text-align: justify;
+              margin-left: 10px;
+              color: #333;
+            } 
+
+
+        
+              .cont-gen-bienvenida .cont-bienvenida .datos-personales{
+                width: 100%;
+                background-color: white;
+                margin-left: 20px;
+                margin-bottom: 20px;
+                -webkit-box-shadow: 10px 10px 9px 0px rgba(0,0,0,0.75);
+                -moz-box-shadow: 10px 10px 9px 0px rgba(0,0,0,0.75);
+                box-shadow: 10px 10px 9px 0px rgba(0,0,0,0.75);
+              } .cont-gen-bienvenida .cont-bienvenida .datos-personales .title-datos{
+                color: #333;
+                font-size: 20px;
+                  margin-bottom: 10px;
+                  margin-top: 10px;
+                  text-align: center;
+              } .cont-gen-bienvenida .cont-bienvenida  .datos-personales .icono-datos{
+                font-size: 20px;
+                text-align: justify;
+                margin-left: 10px;
+                color: #333;
+              } 
+       
+              .cont-gen-bienvenida .cont-bienvenida  .datos-personales p{
+                font-size: 12px;
+                text-align: justify;
+                margin: 0 auto;
+                width: 90%;
+                margin-bottom: 20px;
+              }  .cont-gen-bienvenida .cont-bienvenida  .datos-personales .correo{
+                font-size: 12px;
+                text-align: justify;
+                margin: 0 auto;
+                width: 90%;
+                margin-bottom: 20px;
+              } 
+              
+              .cont-gen-bienvenida .cont-bienvenida  .datos-personales img{
+                width: 100%;
+                height: 180px;
+              } 
+               .cont-gen-bienvenida .cont-bienvenida  .datos-personales .correo{
+                font-size: 14px;
+                text-align: justify;
+                margin: 0 auto;
+                width: 90%;
+                margin-bottom: 20px;
+              }
+           
+            
+            }
+
+
+            @media only screen and (max-width:340px){
+
+               .cont-gen-bienvenida .cont-bienvenida  .datos-personales .correo{
+                    font-size: 12px;
+                    text-align: justify;
+                    margin: 0 auto;
+                    width: 90%;
+                    margin-bottom: 20px;
+                  }
+               
+                
+                }
+
+                @media only screen and (max-width:301px){
+
+                    .cont-gen-bienvenida .cont-bienvenida  .info-intereses p{
+                        font-size: 10px;
+                        text-align: justify;
+                        margin: 0 auto;
+                        margin-bottom: 20px;
+                        width: 80%;
+                      }
+
+                    .cont-gen-bienvenida .cont-bienvenida  .info-objetivo p{
+                        font-size: 10px;
+                        text-align: justify;
+                        margin: 0 auto;
+                        margin-bottom: 20px;
+                        width: 80%;
+                      } 
+
+                    .cont-gen-bienvenida .cont-bienvenida  .datos-personales p{
+                        font-size: 10px;
+                        text-align: justify;
+                        margin: 0 auto;
+                        width: 90%;
+                        margin-bottom: 20px;
+                      } 
+
+                      .cont-gen-bienvenida .cont-bienvenida  .datos-personales .correo{
+                        font-size: 10px;
+                        text-align: justify;
+                        margin: 0 auto;
+                        width: 90%;
+                        margin-bottom: 20px;
+                      }
+                }
+
+                @media only screen and (max-width:271px){
+
+                    .cont-gen-bienvenida .cont-bienvenida  .info-intereses p{
+                        font-size: 8px;
+                        text-align: justify;
+                        margin: 0 auto;
+                        margin-bottom: 20px;
+                        width: 80%;
+                      }
+
+                    .cont-gen-bienvenida .cont-bienvenida  .info-objetivo p{
+                        font-size: 8px;
+                        text-align: justify;
+                        margin: 0 auto;
+                        margin-bottom: 20px;
+                        width: 80%;
+                      } 
+
+                    .cont-gen-bienvenida .cont-bienvenida  .datos-personales p{
+                        font-size: 8px;
+                        text-align: justify;
+                        margin: 0 auto;
+                        width: 90%;
+                        margin-bottom: 20px;
+                      } 
+
+                      .cont-gen-bienvenida .cont-bienvenida  .datos-personales .correo{
+                        font-size: 8px;
+                        text-align: justify;
+                        margin: 0 auto;
+                        width: 90%;
+                        margin-bottom: 20px;
+                      }
+                }

@@ -1,0 +1,534 @@
+@media only screen and (max-width:900px){
+  .cont-gen-dis svg{
+    width: 80%;
+    height: 400px;
+    display: block;
+    margin: 0 auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+  }
+
+  .cont-gen-dis .cont-imgservicio{
+    width: 90%;
+    height: auto;
+    display: flex;
+    justify-content: space-around;
+    margin: 0 auto;
+    margin-bottom: 50px;
+  } .cont-gen-dis .cont-imgservicio .img-servicio{
+    width: 40%;
+    height: 250px;
+    position: relative;
+  } .cont-gen-dis .cont-imgservicio .img-servicio a{
+    width: 100%;
+    position: absolute;
+    background-color: #1584F3;
+    padding:15px 0px 15px 0px;
+    color: white;
+    bottom: 0;
+    font-weight: 700;
+    text-decoration: none;
+    font-family: sans-serif;
+    text-align: center;
+    transition: all 1s;
+  }
+
+  /****************DISEÑOS PROPIOS************/
+.cont-gen-dis .svg-design-proyects{
+  width: 80%;
+  height: 400px;
+  display:block;
+  margin: 0 auto;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+  .cont-gen-dis .cont-diseños-propios{
+    width: 80%;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 0 auto;
+ } .cont-gen-dis .cont-diseños-propios .diseños{
+   width: 40%;
+   height: 250px;
+   position: relative;
+   margin-bottom: 30px;
+ } 
+  .cont-gen-dis .cont-diseños-propios .diseños a{
+   width: 100%;
+   color: white;
+   align-self: center;
+   padding: 10px 0px 10px 0px;
+   display: block;
+   text-decoration: none;
+   font-weight: 700;
+   position: absolute;
+   bottom: 0px;
+   background-color: #1584F3;
+   transition: all 1s;
+   text-align: center;
+ }  .cont-gen-dis .cont-diseños-propios .diseños a:hover{
+   color: #1584F3;
+   background-color: white;
+ }
+ .cont-gen-dis .cont-diseños-propios .cont-carteles{
+   background-image: url(../img/contcarteles.webp);
+   background-position: center center;
+   background-size: cover;
+ } 
+ .cont-gen-dis .cont-diseños-propios .cont-logos{
+
+   background-image: url(../img/intereses.jpg);
+   background-position: center center;
+   background-size: cover;
+ } 
+ 
+ .cont-gen-dis .cont-diseños-propios .cont-posts{
+   background-image: url(../img/redessociales.jpg);
+   background-position: center center;
+   background-size: cover;
+ } 
+
+
+}
+   
+   
+   @media only screen and (max-width:800px){
+
+        
+          .cont-gen-dis .title-proyectos{
+            text-align: center;
+            font-size: 30px;
+            margin-bottom: 30px;
+          } .cont-gen-dis .title-experiencia{
+            text-align: center;
+            font-size: 20px;
+            margin-bottom: 30px;
+          } .cont-gen-dis .parrafo-experiencia{
+            text-align: center;
+            font-size: 15px;
+            margin: 0 auto;
+            width: 80%;
+            margin-bottom: 30px;
+          } 
+          
+          /******diseño propio ******/
+          .cont-gen-dis .svg-design-proyects{
+            width: 80%;
+            height: 400px;
+            display:block;
+            margin: 0 auto;
+            margin-top: 20px;
+            margin-bottom: 10px;
+          }
+          .cont-gen-dis .parrafo-diseño{
+            text-align: center;
+            font-size: 20px;
+            margin: 0 auto;
+            width: 80%;
+            margin-bottom: 30px;
+          } 
+           .cont-gen-dis .cont-diseños-propios{
+            width: 90%;
+            height: auto;
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-around;
+            margin: 0 auto;
+         } .cont-gen-dis .cont-diseños-propios .diseños{
+           width: 60%;
+           height: 250px;
+           position: relative;
+           margin-bottom: 30px;
+         } 
+          .cont-gen-dis .cont-diseños-propios .diseños a{
+           width: 100%;
+           color: white;
+           align-self: center;
+           padding: 10px 0px 10px 0px;
+           display: block;
+           text-decoration: none;
+           font-weight: 700;
+           position: absolute;
+           bottom: 0px;
+           background-color: #1584F3;
+           transition: all 1s;
+           text-align: center;
+         }  .cont-gen-dis .cont-diseños-propios .diseños a:hover{
+           color: #1584F3;
+           background-color: white;
+         }
+    }
+
+    @media only screen and (max-width:700px){
+
+      
+          .cont-gen-dis .title-proyectos{
+            text-align: center;
+            font-size: 30px;
+            margin-bottom: 30px;
+          } .cont-gen-dis .title-experiencia{
+            text-align: center;
+            font-size: 20px;
+            margin-bottom: 30px;
+          } .cont-gen-dis .parrafo-experiencia{
+            text-align: center;
+            font-size: 15px;
+            margin: 0 auto;
+            width: 80%;
+            margin-bottom: 30px;
+          } 
+
+          .cont-gen-dis .cont-imgservicio{
+            width: 90%;
+            height: auto;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-around;
+            margin: 0 auto;
+            margin-bottom: 50px;
+          } .cont-gen-dis .cont-imgservicio .img-servicio{
+            width: 80%;
+            height: 350px;
+            position: relative;
+            margin: 0 auto;
+            margin-bottom: 30px;
+          } .cont-gen-dis .cont-imgservicio .img-servicio a{
+            width: 100%;
+            position: absolute;
+            background-color: #1584F3;
+            padding:15px 0px 15px 0px;
+            color: white;
+            bottom: 0;
+            font-weight: 700;
+            text-decoration: none;
+            font-family: sans-serif;
+            text-align: center;
+            transition: all 1s;
+          }
+          /*******************DISEÑO PRIOPIO ************/
+          .cont-gen-dis .svg-design-proyects{
+            width: 80%;
+            height: 400px;
+            display:block;
+            margin: 0 auto;
+            margin-top: 20px;
+            margin-bottom: 10px;
+          }
+          .cont-gen-dis .parrafo-diseño{
+            text-align: center;
+            font-size: 20px;
+            margin: 0 auto;
+            width: 80%;
+            margin-bottom: 30px;
+          } 
+
+          .cont-gen-dis .cont-diseños-propios{
+            width: 80%;
+            height: auto;
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-around;
+            margin: 0 auto;
+         } .cont-gen-dis .cont-diseños-propios .diseños{
+           width: 80%;
+           height: 300px;
+           position: relative;
+           margin-bottom: 30px;
+         } 
+          .cont-gen-dis .cont-diseños-propios .diseños a{
+           width: 100%;
+           color: white;
+           align-self: center;
+           padding: 10px 0px 10px 0px;
+           display: block;
+           text-decoration: none;
+           font-weight: 700;
+           position: absolute;
+           bottom: 0px;
+           background-color: #1584F3;
+           transition: all 1s;
+           text-align: center;
+         }  .cont-gen-dis .cont-diseños-propios .diseños a:hover{
+           color: #1584F3;
+           background-color: white;
+         }
+    }
+
+    
+    @media only screen and (max-width:600px){
+
+       
+          .cont-gen-dis .title-proyectos{
+            text-align: center;
+            font-size: 30px;
+            margin-bottom: 30px;
+          } .cont-gen-dis .title-experiencia{
+            text-align: center;
+            font-size: 20px;
+            margin-bottom: 30px;
+          } .cont-gen-dis .parrafo-experiencia{
+            text-align: center;
+            font-size: 15px;
+            margin: 0 auto;
+            width: 80%;
+            margin-bottom: 30px;
+          }
+          /*****************diseño propio***********/
+          .cont-gen-dis .svg-design-proyects{
+            width: 80%;
+            height: 400px;
+            display:block;
+            margin: 0 auto;
+            margin-top: 20px;
+            margin-bottom: 10px;
+          }
+          .cont-gen-dis .parrafo-diseño{
+            text-align: center;
+            font-size: 15px;
+            margin: 0 auto;
+            width: 80%;
+            margin-bottom: 30px;
+          } .cont-gen-dis .cont-diseños-propios{
+             width: 80%;
+             height: auto;
+             display: flex;
+             flex-wrap: wrap;
+             justify-content: space-around;
+             margin: 0 auto;
+          } 
+
+    }
+
+    @media only screen and (max-width:500px){
+      .cont-gen-dis .title-proyectos{
+        text-align: center;
+        font-size: 25px;
+        margin-bottom: 30px;
+      } 
+      .cont-gen-dis .cont-imgservicio{
+        width: 100%;
+        height: auto;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        margin: 0 auto;
+        margin-bottom: 50px;
+      } .cont-gen-dis .cont-imgservicio .img-servicio{
+        width: 90%;
+        height: 350px;
+        position: relative;
+        margin: 0 auto;
+        margin-bottom: 30px;
+      } .cont-gen-dis .cont-imgservicio .img-servicio a{
+        width: 100%;
+        position: absolute;
+        background-color: #1584F3;
+        padding:15px 0px 15px 0px;
+        color: white;
+        bottom: 0;
+        font-weight: 700;
+        text-decoration: none;
+        font-family: sans-serif;
+        text-align: center;
+        transition: all 1s;
+      }
+
+      .cont-gen-dis .cont-diseños-propios{
+        width: 90%;
+        height: auto;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        margin: 0 auto;
+     } .cont-gen-dis .cont-diseños-propios .diseños{
+       width: 80%;
+       height: 250px;
+       position: relative;
+       margin-bottom: 30px;
+     } 
+      .cont-gen-dis .cont-diseños-propios .diseños a{
+       width: 100%;
+       color: white;
+       align-self: center;
+       padding: 10px 0px 10px 0px;
+       display: block;
+       text-decoration: none;
+       font-weight: 700;
+       position: absolute;
+       bottom: 0px;
+       background-color: #1584F3;
+       transition: all 1s;
+       text-align: center;
+     }  .cont-gen-dis .cont-diseños-propios .diseños a:hover{
+       color: #1584F3;
+       background-color: white;
+     }
+    }
+    
+    @media only screen and (max-width:400px){
+      .cont-gen-dis .title-proyectos{
+        text-align: center;
+        font-size: 22px;
+        margin-bottom: 30px;
+      } 
+      .cont-gen-dis .cont-imgservicio{
+        width: 100%;
+        height: auto;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        margin: 0 auto;
+        margin-bottom: 50px;
+      } .cont-gen-dis .cont-imgservicio .img-servicio{
+        width: 90%;
+        height: 250px;
+        position: relative;
+        margin: 0 auto;
+        margin-bottom: 30px;
+      } .cont-gen-dis .cont-imgservicio .img-servicio a{
+        width: 100%;
+        position: absolute;
+        background-color: #1584F3;
+        padding:15px 0px 15px 0px;
+        color: white;
+        bottom: 0;
+        font-weight: 700;
+        text-decoration: none;
+        font-family: sans-serif;
+        text-align: center;
+        transition: all 1s;
+      }
+
+      .cont-gen-dis .cont-diseños-propios{
+        width: 100%;
+        height: auto;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        margin: 0 auto;
+     } .cont-gen-dis .cont-diseños-propios .diseños{
+       width: 90%;
+       height: 250px;
+       position: relative;
+       margin-bottom: 30px;
+     } 
+      .cont-gen-dis .cont-diseños-propios .diseños a{
+       width: 100%;
+       color: white;
+       align-self: center;
+       padding: 10px 0px 10px 0px;
+       display: block;
+       text-decoration: none;
+       font-weight: 700;
+       position: absolute;
+       bottom: 0px;
+       background-color: #1584F3;
+       transition: all 1s;
+       text-align: center;
+     }  .cont-gen-dis .cont-diseños-propios .diseños a:hover{
+       color: #1584F3;
+       background-color: white;
+     }
+    }
+
+    @media only screen and (max-width:300px){
+
+     
+          .cont-gen-dis .title-proyectos{
+            text-align: center;
+            font-size: 30px;
+            
+            margin-bottom: 30px;
+          } .cont-gen-dis .title-experiencia{
+            text-align: center;
+            font-size: 20px;
+           
+            margin-bottom: 30px;
+          } .cont-gen-dis .parrafo-experiencia{
+            text-align: center;
+           
+            font-size: 15px;
+            margin: 0 auto;
+            width: 80%;
+            margin-bottom: 30px;
+          } 
+
+          .cont-gen-dis .cont-imgservicio{
+            width: 100%;
+            height: auto;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-around;
+            margin: 0 auto;
+            margin-bottom: 50px;
+          } .cont-gen-dis .cont-imgservicio .img-servicio{
+            width: 90%;
+            height: 200px;
+            position: relative;
+            margin: 0 auto;
+            margin-bottom: 30px;
+          } .cont-gen-dis .cont-imgservicio .img-servicio a{
+            width: 100%;
+            position: absolute;
+            background-color: #1584F3;
+            padding:15px 0px 15px 0px;
+            color: white;
+            bottom: 0;
+            font-weight: 700;
+            text-decoration: none;
+            font-family: sans-serif;
+            text-align: center;
+            transition: all 1s;
+          }
+
+          /*************DISEÑO PROPIOS**********/
+          .cont-gen-dis .svg-design-proyects{
+            width: 80%;
+            height: 400px;
+            display:block;
+            margin: 0 auto;
+            margin-top: 20px;
+            margin-bottom: 10px;
+          }
+          .cont-gen-dis .parrafo-diseño{
+            text-align: center;
+            font-size: 20px;
+            margin: 0 auto;
+            width: 80%;
+            margin-bottom: 30px;
+          } 
+
+          .cont-gen-dis .cont-diseños-propios{
+            width: 100%;
+            height: auto;
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-around;
+            margin: 0 auto;
+         } .cont-gen-dis .cont-diseños-propios .diseños{
+           width: 90%;
+           height: 200px;
+           position: relative;
+           margin-bottom: 30px;
+         } 
+          .cont-gen-dis .cont-diseños-propios .diseños a{
+           width: 100%;
+           color: white;
+           align-self: center;
+           padding: 10px 0px 10px 0px;
+           display: block;
+           text-decoration: none;
+           font-weight: 700;
+           position: absolute;
+           bottom: 0px;
+           background-color: #1584F3;
+           transition: all 1s;
+           text-align: center;
+         }  .cont-gen-dis .cont-diseños-propios .diseños a:hover{
+           color: #1584F3;
+           background-color: white;
+         }
+
+    }

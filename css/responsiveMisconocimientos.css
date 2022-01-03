@@ -1,0 +1,200 @@
+
+@media only screen and (max-width:1100px){
+
+.cont-gen-conocimientos .title-conocimientos{
+    text-align: center;
+    font-size: 30px;
+    color: #FFF;
+    margin-bottom: 30px;
+  } 
+  .cont-gen-conocimientos .cont-conocimientos{
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  
+  } .cont-gen-conocimientos .cont-conocimientos .cont-habilidad{
+    width: 30%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    margin-bottom: 30px;
+   background-color: #FFF;
+   border-radius: 15px;
+  } .cont-gen-conocimientos .cont-conocimientos .cont-habilidad img{
+    width: 30px;
+    height: 30px;
+    left: 10px;
+    display: block;
+    margin: 0;
+    margin-right: 10px;
+  }
+  .cont-gen-conocimientos .cont-conocimientos .cont-habilidad h3{
+    color: #333;
+    display: block;
+    margin: 0;
+    display: flex;
+    line-height: 30px;
+    margin-left: 30px;
+    margin-bottom: 20px;
+  }
+  .cont-gen-conocimientos .cont-conocimientos .cont-habilidad p{
+    color: #333;
+    font-size: 12px;
+    text-align: justify;
+    margin: 0 auto;
+    width: 80%;
+    font-weight: 600;
+  }
+
+}
+
+@media only screen and (max-width:700px){
+
+    
+.cont-gen-conocimientos .title-conocimientos{
+    text-align: center;
+    font-size: 40px;
+    color: #FFF;
+    margin-bottom: 30px;
+  } 
+
+    .cont-gen-conocimientos .cont-conocimientos .cont-habilidad{
+        width: 80%;
+        height: auto;
+        display: flex;
+        flex-direction: column;
+        padding: 10px;
+        margin-bottom: 30px;
+       background-color: #FFF;
+       border-radius: 15px;
+      } .cont-gen-conocimientos .cont-conocimientos .cont-habilidad img{
+        width: 50px;
+        height: 50px;
+        left: 5px;
+        display: block;
+        margin: 0;
+        margin-right: 10px;
+      }
+      .cont-gen-conocimientos .cont-conocimientos .cont-habilidad h3{
+        color: #333;
+        display: block;
+        margin: 0;
+        display: flex;
+        line-height: 50px;
+        margin-left: 30px;
+        margin-bottom: 20px;
+        font-size: 30px;
+      }
+      .cont-gen-conocimientos .cont-conocimientos .cont-habilidad p{
+        color: #333;
+        font-size: 20px;
+        text-align: justify;
+        margin: 0 auto;
+        margin-bottom: 20px;
+        width: 80%;
+        font-weight: 600;
+      }
+
+}
+
+
+@media only screen and (max-width:500px){
+
+          .cont-gen-conocimientos .cont-conocimientos .cont-habilidad p{
+            color: #333;
+            font-size: 15px;
+            text-align: justify;
+            margin: 0 auto;
+            margin-bottom: 20px;
+            width: 80%;
+            font-weight: 600;
+          }
+    
+    }
+
+
+    
+
+@media only screen and (max-width:450px){
+
+      
+.cont-gen-conocimientos .title-conocimientos{
+    text-align: center;
+    font-size: 30px;
+    color: #FFF;
+    margin-bottom: 30px;
+  } 
+
+    .cont-gen-conocimientos .cont-conocimientos .cont-habilidad h3{
+        color: #333;
+        display: block;
+        margin: 0;
+        display: flex;
+        line-height: 30px;
+        margin-left: 10px;
+        margin-bottom: 20px;
+        font-size: 25px;
+      }
+      .cont-gen-conocimientos .cont-conocimientos .cont-habilidad img{
+        width: 40px;
+        height: 40px;
+        left: 5px;
+        display: block;
+        margin: 0;
+        margin-right: 10px;
+      }
+    .cont-gen-conocimientos .cont-conocimientos .cont-habilidad p{
+      color: #333;
+      font-size: 15px;
+      text-align: justify;
+      margin: 0 auto;
+      margin-bottom: 20px;
+      width: 80%;
+      font-weight: 600;
+    }
+
+}
+
+
+@media only screen and (max-width:300px){
+
+      
+    .cont-gen-conocimientos .title-conocimientos{
+        text-align: center;
+        font-size: 25px;
+        color: #FFF;
+        margin-bottom: 30px;
+      } 
+    
+        .cont-gen-conocimientos .cont-conocimientos .cont-habilidad h3{
+            color: #333;
+            display: block;
+            margin: 0;
+            display: flex;
+            line-height: 30px;
+            margin-left: 10px;
+            margin-bottom: 20px;
+            font-size: 20px;
+          }
+          .cont-gen-conocimientos .cont-conocimientos .cont-habilidad img{
+            width: 30px;
+            height: 30px;
+            left: 5px;
+            display: block;
+            margin: 0;
+            margin-right: 10px;
+          }
+        .cont-gen-conocimientos .cont-conocimientos .cont-habilidad p{
+          color: #333;
+          font-size: 12px;
+          text-align: justify;
+          margin: 0 auto;
+          margin-bottom: 20px;
+          width: 80%;
+          font-weight: 600;
+        }
+    
+    }

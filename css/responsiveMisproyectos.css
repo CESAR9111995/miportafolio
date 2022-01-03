@@ -1,0 +1,489 @@
+/******************MIS PROYECTOS ***********************/
+
+@media only screen and (max-width:1300px){
+  .svg-exp-design{
+    width: 40%;
+    height: 300px;
+    margin-left: 30%;
+    margin-top: 30px;
+  } .cont-gen-proyectos .cont-degradado .cont-experiencia-web{
+    width: 90%;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 auto;
+    padding: 20px;
+    justify-content: center;
+  } .cont-gen-proyectos .cont-degradado .cont-experiencia-web .web{
+    width: 40%;
+    height: auto;
+    display: flex;
+    margin-left: 10px;
+    margin-bottom: 30px;
+    flex-direction: column;
+    background-color: #FFF;
+    position: relative;
+    -webkit-box-shadow: 10px 10px 9px 0px rgba(0,0,0,0.75);
+  -moz-box-shadow: 10px 10px 9px 0px rgba(0,0,0,0.75);
+  box-shadow: 10px 10px 9px 0px rgba(0,0,0,0.75);
+  } .cont-gen-proyectos .cont-degradado .cont-experiencia-web .web img{
+    width: 100%;
+    height: 180px;
+    margin-bottom: 20px;
+  } .cont-gen-proyectos .cont-degradado .cont-experiencia-web .web h2{
+    font-size: 18px;
+    color: #333;
+    margin-left: 25px;
+    margin-bottom: 10px;
+  } .cont-gen-proyectos .cont-degradado .cont-experiencia-web .web h3{
+    font-size: 16px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+  }
+  .cont-gen-proyectos .cont-degradado .cont-experiencia-web .web p{
+    width: 80%;
+    font-size: 12px;
+    text-align: justify;
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 10px;
+  }.cont-gen-proyectos .cont-degradado .cont-experiencia-web .web .info{
+    width: 80%;
+    font-size: 12px;
+    text-align: justify;
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 50px;
+  } 
+   .cont-gen-proyectos .cont-degradado .cont-experiencia-web .web .boton{
+    width: 100%;
+    background-color: #19B6F6;
+    color: white;
+    margin: 0;
+    position: absolute;
+    bottom: 0px;
+    text-decoration: none;
+    text-align: center;
+    padding: 10px 0px 10px 0px;
+    font-family: sans-serif;
+    font-weight: 600;
+    transition: all 1s;
+  }
+
+}
+
+
+@media only screen and (max-width:900px){
+  .svg-exp-design{
+    width: 70%;
+    height: 300px;
+    display: block;
+    margin: 0 auto;
+    margin-top: 30px;
+  } 
+
+  .cont-gen-proyectos .cont-degradado .cont-experiencia-web .web{
+    width: 50%;
+    height: auto;
+    display: flex;
+    margin-left: 10px;
+    margin-bottom: 30px;
+    flex-direction: column;
+    background-color: #FFF;
+    position: relative;
+    -webkit-box-shadow: 10px 10px 9px 0px rgba(0,0,0,0.75);
+  -moz-box-shadow: 10px 10px 9px 0px rgba(0,0,0,0.75);
+  box-shadow: 10px 10px 9px 0px rgba(0,0,0,0.75);
+  } 
+    }
+
+    
+@media only screen and (max-width:751px){
+
+  .svg-exp-design{
+    width: 80%;
+    height: 300px;
+    display: block;
+    margin: 0 auto;
+    margin-top: 30px;
+  } 
+   
+  .cont-gen-proyectos .cont-degradado .cont-experiencia-web .web{
+    width: 80%;
+    height: auto;
+    display: flex;
+    margin-left: 10px;
+    margin-bottom: 30px;
+    flex-direction: column;
+    background-color: #FFF;
+    position: relative;
+    -webkit-box-shadow: 10px 10px 9px 0px rgba(0,0,0,0.75);
+  -moz-box-shadow: 10px 10px 9px 0px rgba(0,0,0,0.75);
+  box-shadow: 10px 10px 9px 0px rgba(0,0,0,0.75);
+  } 
+  .cont-gen-proyectos .cont-degradado .cont-experiencia-web .web img{
+    width: 100%;
+    height: 280px;
+    margin-bottom: 20px;
+  } .cont-gen-proyectos .cont-degradado .cont-experiencia-web .web h2{
+    font-size: 25px;
+    color: #333;
+    text-align: center;
+    margin-bottom: 10px;
+  } .cont-gen-proyectos .cont-degradado .cont-experiencia-web .web h3{
+    font-size: 18px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+  }
+  .cont-gen-proyectos .cont-degradado .cont-experiencia-web .web p{
+    width: 80%;
+    font-size: 18px;
+    text-align: justify;
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 10px;
+  }.cont-gen-proyectos .cont-degradado .cont-experiencia-web .web .info{
+    width: 80%;
+    font-size: 18px;
+    text-align: justify;
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 50px;
+  } 
+   .cont-gen-proyectos .cont-degradado .cont-experiencia-web .web .boton{
+    width: 100%;
+    background-color: #19B6F6;
+    color: white;
+    margin: 0;
+    position: absolute;
+    bottom: 0px;
+    text-decoration: none;
+    text-align: center;
+    padding: 10px 0px 10px 0px;
+    font-family: sans-serif;
+    font-weight: 600;
+    transition: all 1s;
+    font-size: 18px;
+  }
+
+    }
+
+      
+@media only screen and (max-width:600px){
+  .cont-gen-proyectos .cont-degradado .cont-experiencia-web .web{
+    width: 90%;
+    height: auto;
+    display: flex;
+    margin-left: 10px;
+    margin-bottom: 30px;
+    flex-direction: column;
+    background-color: #FFF;
+    position: relative;
+    -webkit-box-shadow: 10px 10px 9px 0px rgba(0,0,0,0.75);
+  -moz-box-shadow: 10px 10px 9px 0px rgba(0,0,0,0.75);
+  box-shadow: 10px 10px 9px 0px rgba(0,0,0,0.75);
+  } 
+  .cont-gen-proyectos .cont-degradado .cont-experiencia-web .web img{
+    width: 100%;
+    height: 220px;
+    margin-bottom: 20px;
+  } .cont-gen-proyectos .cont-degradado .cont-experiencia-web .web h2{
+    font-size: 20px;
+    color: #333;
+    text-align: center;
+    margin-bottom: 10px;
+  } .cont-gen-proyectos .cont-degradado .cont-experiencia-web .web h3{
+    font-size: 18px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+  }
+  .cont-gen-proyectos .cont-degradado .cont-experiencia-web .web p{
+    width: 90%;
+    font-size: 18px;
+    text-align: justify;
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 10px;
+  }.cont-gen-proyectos .cont-degradado .cont-experiencia-web .web .info{
+    width: 90%;
+    font-size: 16px;
+    text-align: justify;
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 50px;
+  } 
+   .cont-gen-proyectos .cont-degradado .cont-experiencia-web .web .boton{
+    width: 100%;
+    background-color: #19B6F6;
+    color: white;
+    margin: 0;
+    position: absolute;
+    bottom: 0px;
+    text-decoration: none;
+    text-align: center;
+    padding: 10px 0px 10px 0px;
+    font-family: sans-serif;
+    font-weight: 600;
+    transition: all 1s;
+    font-size: 18px;
+  }
+    }
+
+       
+@media only screen and (max-width:460px){
+  .cont-gen-proyectos .cont-degradado .cont-experiencia-web .web{
+    width: 100%;
+    height: auto;
+    display: flex;
+    margin-left: 10px;
+    margin-bottom: 30px;
+    flex-direction: column;
+    background-color: #FFF;
+    position: relative;
+    -webkit-box-shadow: 10px 10px 9px 0px rgba(0,0,0,0.75);
+  -moz-box-shadow: 10px 10px 9px 0px rgba(0,0,0,0.75);
+  box-shadow: 10px 10px 9px 0px rgba(0,0,0,0.75);
+  } 
+  .cont-gen-proyectos .cont-degradado .cont-experiencia-web .web img{
+    width: 100%;
+    height: 220px;
+    margin-bottom: 20px;
+  } .cont-gen-proyectos .cont-degradado .cont-experiencia-web .web h2{
+    font-size: 16px;
+    color: #333;
+    text-align: center;
+    margin-bottom: 10px;
+  } .cont-gen-proyectos .cont-degradado .cont-experiencia-web .web h3{
+    font-size: 18px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+  }
+  .cont-gen-proyectos .cont-degradado .cont-experiencia-web .web p{
+    width: 90%;
+    font-size: 18px;
+    text-align: justify;
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 10px;
+  }.cont-gen-proyectos .cont-degradado .cont-experiencia-web .web .info{
+    width: 90%;
+    font-size: 16px;
+    text-align: justify;
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 50px;
+  } 
+   .cont-gen-proyectos .cont-degradado .cont-experiencia-web .web .boton{
+    width: 100%;
+    background-color: #19B6F6;
+    color: white;
+    margin: 0;
+    position: absolute;
+    bottom: 0px;
+    text-decoration: none;
+    text-align: center;
+    padding: 10px 0px 10px 0px;
+    font-family: sans-serif;
+    font-weight: 600;
+    transition: all 1s;
+    font-size: 18px;
+  }
+    
+    }
+
+    
+@media only screen and (max-width:400px){
+  .cont-gen-proyectos .cont-degradado .cont-experiencia-web .web{
+    width: 100%;
+    height: auto;
+    display: flex;
+    margin-left: 10px;
+    margin-bottom: 30px;
+    flex-direction: column;
+    background-color: #FFF;
+    position: relative;
+    -webkit-box-shadow: 10px 10px 9px 0px rgba(0,0,0,0.75);
+  -moz-box-shadow: 10px 10px 9px 0px rgba(0,0,0,0.75);
+  box-shadow: 10px 10px 9px 0px rgba(0,0,0,0.75);
+  } 
+  .cont-gen-proyectos .cont-degradado .cont-experiencia-web .web img{
+    width: 100%;
+    height: 220px;
+    margin-bottom: 20px;
+  }
+  .cont-gen-proyectos .cont-degradado .cont-experiencia-web .web img{
+    width: 100%;
+    height: 220px;
+    margin-bottom: 20px;
+  } .cont-gen-proyectos .cont-degradado .cont-experiencia-web .web h2{
+    width: 90%;
+    font-size: 16px;
+    color: #333;
+    text-align: left;
+    margin-bottom: 10px;
+  } .cont-gen-proyectos .cont-degradado .cont-experiencia-web .web h3{
+    font-size: 16px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+  }
+  .cont-gen-proyectos .cont-degradado .cont-experiencia-web .web p{
+    width: 90%;
+    font-size: 12px;
+    text-align: justify;
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 10px;
+  }.cont-gen-proyectos .cont-degradado .cont-experiencia-web .web .info{
+    width: 90%;
+    font-size: 12px;
+    text-align: justify;
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 50px;
+  } 
+   .cont-gen-proyectos .cont-degradado .cont-experiencia-web .web .boton{
+    width: 100%;
+    background-color: #19B6F6;
+    color: white;
+    margin: 0;
+    position: absolute;
+    bottom: 0px;
+    text-decoration: none;
+    text-align: center;
+    padding: 10px 0px 10px 0px;
+    font-family: sans-serif;
+    font-weight: 600;
+    transition: all 1s;
+    font-size: 18px;
+  }
+    }
+
+        
+@media only screen and (max-width:350px){
+  .cont-gen-proyectos .cont-degradado .cont-experiencia-web .web{
+    width: 100%;
+    height: auto;
+    display: flex;
+    margin-left: 10px;
+    margin-bottom: 30px;
+    flex-direction: column;
+    background-color: #FFF;
+    position: relative;
+    -webkit-box-shadow: 10px 10px 9px 0px rgba(0,0,0,0.75);
+  -moz-box-shadow: 10px 10px 9px 0px rgba(0,0,0,0.75);
+  box-shadow: 10px 10px 9px 0px rgba(0,0,0,0.75);
+  } 
+ 
+  .cont-gen-proyectos .cont-degradado .cont-experiencia-web .web img{
+    width: 100%;
+    height: 180px;
+    margin-bottom: 20px;
+  } .cont-gen-proyectos .cont-degradado .cont-experiencia-web .web h2{
+    width: 90%;
+    font-size: 16px;
+    color: #333;
+    text-align: left;
+    margin-bottom: 10px;
+  } .cont-gen-proyectos .cont-degradado .cont-experiencia-web .web h3{
+    font-size: 16px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+  }
+  .cont-gen-proyectos .cont-degradado .cont-experiencia-web .web p{
+    width: 90%;
+    font-size: 10px;
+    text-align: justify;
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 10px;
+  }.cont-gen-proyectos .cont-degradado .cont-experiencia-web .web .info{
+    width: 90%;
+    font-size: 10px;
+    text-align: justify;
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 50px;
+  } 
+   .cont-gen-proyectos .cont-degradado .cont-experiencia-web .web .boton{
+    width: 100%;
+    background-color: #19B6F6;
+    color: white;
+    margin: 0;
+    position: absolute;
+    bottom: 0px;
+    text-decoration: none;
+    text-align: center;
+    padding: 10px 0px 10px 0px;
+    font-family: sans-serif;
+    font-weight: 600;
+    transition: all 1s;
+    font-size: 18px;
+  }
+    
+    }
+
+            
+@media only screen and (max-width:305px){
+  .cont-gen-proyectos .cont-degradado .cont-experiencia-web .web{
+    width: 100%;
+    height: auto;
+    display: flex;
+    margin-left: 10px;
+    margin-bottom: 30px;
+    flex-direction: column;
+    background-color: #FFF;
+    position: relative;
+    -webkit-box-shadow: 10px 10px 9px 0px rgba(0,0,0,0.75);
+  -moz-box-shadow: 10px 10px 9px 0px rgba(0,0,0,0.75);
+  box-shadow: 10px 10px 9px 0px rgba(0,0,0,0.75);
+  } 
+ 
+  .cont-gen-proyectos .cont-degradado .cont-experiencia-web .web img{
+    width: 100%;
+    height: 180px;
+    margin-bottom: 20px;
+  } .cont-gen-proyectos .cont-degradado .cont-experiencia-web .web h2{
+    width: 95%;
+    font-size: 14px;
+    color: #333;
+    text-align: left;
+    margin-bottom: 10px;
+  } .cont-gen-proyectos .cont-degradado .cont-experiencia-web .web h3{
+    font-size: 10px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+  }
+  .cont-gen-proyectos .cont-degradado .cont-experiencia-web .web p{
+    width: 90%;
+    font-size: 10px;
+    text-align: justify;
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 10px;
+  }.cont-gen-proyectos .cont-degradado .cont-experiencia-web .web .info{
+    width: 90%;
+    font-size: 10px;
+    text-align: justify;
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 50px;
+  } 
+   .cont-gen-proyectos .cont-degradado .cont-experiencia-web .web .boton{
+    width: 100%;
+    background-color: #19B6F6;
+    color: white;
+    margin: 0;
+    position: absolute;
+    bottom: 0px;
+    text-decoration: none;
+    text-align: center;
+    padding: 10px 0px 10px 0px;
+    font-family: sans-serif;
+    font-weight: 600;
+    transition: all 1s;
+    font-size: 18px;
+  }
+    
+    }
+
+
